@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAI_EjercicioIII", "CAI_EjercicioIII\CAI_EjercicioIII.csproj", "{B6197B33-5578-4D52-B403-926FD901FECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6197B33-5578-4D52-B403-926FD901FECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6197B33-5578-4D52-B403-926FD901FECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6197B33-5578-4D52-B403-926FD901FECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6197B33-5578-4D52-B403-926FD901FECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D23F51B-F8E8-484E-A1E5-6BC330D39414}
+	EndGlobalSection
+EndGlobal
